@@ -51,4 +51,13 @@ KaKao Clone 이론 정리
         - 단점 : 같은 css를 사용하더라도 모든 html 문서에 작업을 해주어야 함, 비효율적
     2. Link : <link> 태그를 사용하여 html파일에 css파일을 적용 시켜 줌
         - 장점 : 여러 html 파일을 하나의 css 파일로 관리할 수 있음
-
+---------------------------------------    
+# 2일차 정리
+### 3.4. Inline VS Block VS Inline Block
+    1. Block : element가 크기와 상관없어 그 옆에 다른 element가 위치하는 것을 허용하지 않는 것
+        - display를 지정해주지 않으면 default 값으로 block 값이 지정됨
+    2. Inline Block : element, box가 옆으로 붙는 형태, 인라인과 같은 설정값을 원하면서 동시에 박스 형태를 유지하고 싶을 때 Inline Block을 사용
+    3. Inline : Inline은 텍스트, 텍스트는 높이, 폭이 없다 다만 컨텐츠의 길이에 따라 크기가 결정된다 
+        - 박스의 모든 property(width, height) 설정값을 지운다
+### 3.5. Position property
+    1. 
